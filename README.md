@@ -9,3 +9,5 @@ $$
 
 ## 结果
 ![result](https://github.com/wanghuzhen/Laplace_Operator_on_Mesh/blob/main/result.PNG)
+
+### 更大型矩阵将numpy替换为cupy，支持CUDA加速
